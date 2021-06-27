@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e97a9f8ca8854844",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bed20c334576519",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tasks 2 - Question types.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "814186444efa0557",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fb2f9945b81dbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e31660aa31d529fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57c8cb53f894caa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204
+  },
+  "right": {
+    "id": "d6d86638a540ab5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b034076df187b4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e2492a51127bc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks 2 - Question types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3bed20c334576519",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
